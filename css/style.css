@@ -25,7 +25,7 @@ html, body {
 }
 
 /* Styling the navbar */
-/* .navbar-nav a {
+.navbar-nav a {
     color: #ffffff !important;
     font-size: 20px;
     font-weight: 500;
@@ -44,7 +44,7 @@ html, body {
 .navbar-nav a:hover {
     border-bottom: 2px solid #58BF8E;
     width: fit-content;
-} */
+}
 
 /* Styling the background text */
 .bg-text {
